@@ -1,4 +1,4 @@
 # Coding Progress
 ---
-### Back to C
-Day 1 (06/13/2026)
+Day 1 (06/24/2026)
+ - Started working on my portfolio for my projects
